@@ -1,0 +1,19 @@
+.hero {
+    background-image: url('https://creazilla-store.fra1.digitaloceanspaces.com/three_d_models/1403687/ultimate-food-pack-3d-model-79071-md.png');
+    background-size: cover;
+    background-position: center top;
+    height: 80vh;
+}
+
+.hero .row {
+    position: static;
+    top: 50%;
+    align-items: center;
+    padding-top: 15vh;
+}
+
+
+.hero .col-md-6 {
+    color: #fff;
+    padding: 1 rem;
+}
